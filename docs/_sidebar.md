@@ -7,13 +7,12 @@
 **New Command**
 * [React](/new/react/)
     * [- Create](/new/react/create.md)
-    * [- Website](/new/react/)
-    * [- Boilerplate](/new/react/)
-    * [- Examples](/new/react/)
-    * [- NPM Modules](/new/react/)
+    * [- Website](/new/react/website.md)
+    * [- Examples](/new/react/examples.md)
+    * [- NPM Modules](/new/react/modules.md)
 * [Wordpress](/new/wordpress/)
-
-
+    * [- Create](/new/wordpress/create.md)
+   
 
 
 **Tools Command**

@@ -1,5 +1,5 @@
 # Quick start
-To install `webli` globally in your machine, you need to run.
+To install `webli` globally in your machine, open your terminal and type
 
 ```bash
 npm i webli -g

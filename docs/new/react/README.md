@@ -10,8 +10,8 @@ and then from the range of options select react and continue
 **Currently supported options for react are**
 * `Create`
 * `Website`
-* `Boilerplate`
 * `Examples`
 * `NPM Modules`
 
-*Note: You can also use `webli n r` to open the react options*
+*Shortcut: You can also use `webli n r` to open the react options*
+
