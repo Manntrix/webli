@@ -12,6 +12,8 @@
     * [- NPM Modules](/new/react/modules.md)
 * [Wordpress](/new/wordpress/)
     * [- Create](/new/wordpress/create.md)
+    * [- Boilerplate](/new/wordpress/boilerplate.md)
+    * [- Demos](/new/wordpress/demos.md)
    
 
 
