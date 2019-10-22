@@ -16,7 +16,7 @@ webli new wordpress demos
 
 5. Then it will ask for `Enter your database name`, here you need to enter database name you want to use for your project. If database name already exists in `phpmyadmin` it will select that or else it will create a new database with the name you provided in your phpmyadmin.
 
-6. Then `Enter your database user`, here you need to enter the database user name associated with your database or you can also use the username of your phpmyadmin. Deafult is `root`.
+6. Then `Enter your database user`, here you need to enter the database user name associated with your database or you can also use the username of your phpmyadmin. Default is `root`.
 
 7. Then `Enter your database password`, here you need to enter the database password associated with your database or you can also use the password of your phpmyadmin.
 

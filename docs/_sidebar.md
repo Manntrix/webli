@@ -22,3 +22,9 @@
 
 
 **Tools Command**
+* [Wordpress](/tools/wp/)
+    * [- Code Generator](/tools/wp/codegenerator.md)
+    * [- Migration](/tools/wp/migration.md)
+    * [- Change User Details](/tools/wp/user.md)
+    * [- Wp-Config](/tools/wp/config.md)
+   
