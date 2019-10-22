@@ -11,9 +11,9 @@ webli new wordpress create
 
 3. Then it will ask for `Enter your database name`, here you need to enter database name you want to use for your project. If database name already exists in `phpmyadmin` it will select that or else it will create a new database with the name you provided in your phpmyadmin.
 
-4. Then `Enter your database user`, here you need to enter the database user name associated with your database or you can the use the username of your phpmyadmin. Deafult is `root`.
+4. Then `Enter your database user`, here you need to enter the database user name associated with your database or you can also use the username of your phpmyadmin. Deafult is `root`.
 
-5. Then `Enter your database password`, here you need to enter the database password associated with your database or you can the use the password of your phpmyadmin.
+5. Then `Enter your database password`, here you need to enter the database password associated with your database or you can also use the password of your phpmyadmin.
 
 6. Then `Enter your website url`, here enter the url you want to use for the project. If you are building the project on your local machine you need to enter http://localhost/nameoftheproject else enter the url from where you can access the project like http://www.wpsite.com or http://www.wpsite.com/subdirectory. Note: nameoftheproject should be same name you used for `Enter your site name`. e.g http://localhost/webli.
 

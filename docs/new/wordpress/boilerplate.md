@@ -9,7 +9,7 @@ webli new wordpress boilerplate
 Currently support
 `Plugin`
 
-# Plugin
+## Plugin
 
 1. Type the above command in your terminal and from the list select plugin.
 2. Enter `Plugin Name`, `Plugin Slug`, `Plugin URI`, `Plugin Description` `Author Name` and `Author URI` 

@@ -14,6 +14,10 @@
     * [- Create](/new/wordpress/create.md)
     * [- Boilerplate](/new/wordpress/boilerplate.md)
     * [- Demos](/new/wordpress/demos.md)
+* [HTML](/new/html/)
+    * [- Create](/new/html/create.md)
+    * [- Boilerplate](/new/html/boilerplate.md)
+    * [- Demos](/new/html/demos.md)
    
 
 
