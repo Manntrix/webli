@@ -27,4 +27,8 @@
     * [- Migration](/tools/wp/migration.md)
     * [- Change User Details](/tools/wp/user.md)
     * [- Wp-Config](/tools/wp/config.md)
+    * [- Maintenance Mode](/tools/wp/maintenance.md)
+    * [- Media](/tools/wp/media.md)
+
+* [Archieve](/tools/archieve.md)
    

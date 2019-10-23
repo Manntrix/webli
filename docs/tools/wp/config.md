@@ -18,6 +18,10 @@ This will update or create `Database Table Prefix` in your wp-config file
 
 This tool is important because it can generate new `Authentication Keys & Salts`. The other options are `Force SSL Login` and `Force SSL Admin`
 
+### Address
+
+This will update or create `Home and Site URL`, `wp-content URL`, `plugins URL`, `wordpress core files URL`, `uploads folder URL`, `different domain for cookies` and `wordpress wp-content dir`  in your wp-config file.
+
 
 
 *Shortcut: `webli t wp wc`*
