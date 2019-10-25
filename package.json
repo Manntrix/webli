@@ -1,6 +1,6 @@
 {
   "name": "webli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "webli is a cli tool which will help you in creating react and wordpress site in a single click. Its tools option is also beneficial in your day to day work.",
   "main": "./bin/index.js",
   "bin": {
@@ -24,7 +24,7 @@
     "type": "git",
     "url": "https://github.com/Manntrix/webli"
   },
-  "homepage":"https://manntrix.github.io/webli/",
+  "homepage": "https://manntrix.github.io/webli/",
   "author": "Manish Mandal",
   "license": "ISC",
   "dependencies": {
@@ -38,6 +38,7 @@
     "fs-extra": "^8.1.0",
     "fstream": "^1.0.12",
     "glob": "^7.1.4",
+    "imagemin": "^7.0.0",
     "inquirer": "^6.5.0",
     "inquirer-file-path": "^1.0.1",
     "inquirer-select-directory": "^1.2.0",
@@ -47,12 +48,12 @@
     "ora": "^3.4.0",
     "pad": "^3.2.0",
     "replace-in-file": "^4.1.3",
-    "sharp": "^0.23.0",
     "shelljs": "^0.8.3",
     "simple-git": "^1.126.0",
     "tar": "^4.4.11",
     "unzipper": "^0.10.4",
     "update-notifier": "^3.0.1",
+    "webp-converter": "^2.2.3",
     "yargs": "^13.3.0"
   }
 }
