@@ -1,6 +1,6 @@
 {
   "name": "webli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "webli is a cli tool which will help you in creating react and wordpress site in a single click. Its tools option is also beneficial in your day to day work.",
   "main": "./bin/index.js",
   "bin": {

@@ -26,12 +26,10 @@ const wpMaint = require('../lib/tools/wp/wp-maintenance')
 const wpMedia = require('../lib/tools/wp/wp-media')
 const archv = require('../lib/tools/archiever')
 
-const notifier = updateNotifier({
+updateNotifier({
   pkg
-});
-if (notifier.update) {
-  console.log(`Update available: ${notifier.update.latest}`);
-}
+}).notify();
+
 const argv = require('yargs')
 .command({
     command: 'new',
@@ -224,7 +222,7 @@ const argv = require('yargs')
     })
     
   })
-  .demandCommand()
+  .demandCommand(1, `New Commands: \n webli new react     -   Open react options \n webli new wordpress -   Open wordpress options \n webli new html      -   Open html options \n \nTools Commands: \n webli tools wordpress - Open wordpress tool options \n webli tools archieve  - Open archieve tool options \n webli tools extract   - Extract archieve files \n webli tools encrypt   - Encrypt data inside a folder \n webli tools decrypt   - Decrypt data encrypted using webli encrypt tool \n webli tools minifier  - Minify html,css,js files \n webli tools searchandreplace - Search and Replace a particular string inside files in directory \n webli tools image - Open Image Processing tool options`)
   .help()
   .wrap(72)
   .version()
