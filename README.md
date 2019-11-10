@@ -1,5 +1,6 @@
 # Quick start
 
+[<img src="./documentation.jpeg">](https://manntrix.github.io/webli/)
 
 webli is a cli tool which will help you in creating react and wordpress site in a single click. Its tools option is also beneficial in your day to day work.
 
